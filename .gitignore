@@ -1,0 +1,25 @@
+# --- Python cache and environment ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Local ---
+.env
+*.env
+.venv/
+
+# --- Big/raw datasets ---
+data/
+outputs/
+*.csv
+*.json
+*.eml
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# System and IDE files
+.vscode/
+*.log
+

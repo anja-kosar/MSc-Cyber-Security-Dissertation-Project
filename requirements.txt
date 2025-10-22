@@ -1,0 +1,4 @@
+requests 
+pillow
+pytesseract
+beautifulsoup4
