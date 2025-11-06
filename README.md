@@ -57,7 +57,7 @@ A virtual environment (.venv) is used to isolate the dependencies from the syste
 
 1. Ensure the virtual environment is installed
 2. Place datasets in their respective folders under /data/ (sanitized emails, URLs, images)
-3. Run the full analysis pipeline from the project root directory using: python -m src.cli run
+3. Run the full analysis pipeline from the project root directory using: python -m src.cli 
 
 The commands can also be run individually by using: python -m src.images, python -m src.nazario, python -m src.urlscan and python -m src.summarize.
 
